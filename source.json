@@ -1,16 +1,14 @@
 {
-    "name":"JustSleightly's VPM Packages",
-    "id":"dev.sleightly.vpm-listing",
-    "url":"https://justsleightly.github.io/VPM-Package-Listing-Template/index.json",
+    "name":"CoderCo's VPM Packages",
+    "id":"dev.coderco.vpm-listing",
+    "url":"https://vpm.coderco.space/index.json",
     "author":{
-        "email":"just@sleightly.dev",
-        "name":"JustSleightly",
-        "url":"https://just.sleightly.dev"
+        "email":"coder.co@bk.ru",
+        "name":"CoderCo",
+        "url":"https://coderco.space"
     },
     "description":"For use with the VRChat Creator Companion",
     "infoLink":{
-        "url":"https://discord.sleightly.dev",
-        "text":"Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
