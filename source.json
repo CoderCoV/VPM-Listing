@@ -1,6 +1,6 @@
 {
     "name":"CoderCo's VPM Packages",
-    "id":"dev.coderco.vpm-listing",
+    "id":"ru.coderco.vpm-listing",
     "url":"https://vpm.coderco.space/index.json",
     "author":{
         "email":"coder.co@bk.ru",
