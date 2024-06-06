@@ -12,7 +12,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "CoderCoV/AnimationPatches"
+        "CoderCoV/AnimationPatches",
+        "CoderCoV/MeshEditorPlus"
     ],
     "packages":[]
 }
