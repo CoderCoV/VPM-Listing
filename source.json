@@ -1,11 +1,11 @@
 {
     "name":"CoderCo's VPM Packages",
     "id":"ru.coderco.vpm-listing",
-    "url":"https://vpm.coderco.space/index.json",
+    "url":"http://vpm.coderco.su/index.json",
     "author":{
         "email":"coder.co@bk.ru",
         "name":"CoderCo",
-        "url":"https://coderco.space"
+        "url":"https://coderco.su"
     },
     "description":"For use with the VRChat Creator Companion",
     "infoLink":{
