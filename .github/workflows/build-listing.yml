@@ -30,7 +30,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v4.0.1
+            
       - uses: actions/checkout@v3 # check out this repo
       - uses: actions/checkout@v3 # check out automation repo
         with:
